@@ -1,14 +1,14 @@
 [README.md](https://github.com/user-attachments/files/32860760/README.md)
-# Personal Portfolio Website – Week 2
+# Personal Portfolio Website
 
 **Author:** Hlomla Mvinjelwa  
 **Email:** hlomlamvinjelwa007@gmail.com  
 **Location:** Langa, Cape Town
 
 ## Project Description
-This is a fully responsive personal portfolio website built as part of the Frontend Development Internship (Week 2 – CSS & Responsive Design).
+This is a fully responsive personal portfolio website built as part of the Frontend Development(CSS & Responsive Design).
 
-The website was first created in Week 1 using HTML5 and has now been enhanced with advanced CSS, Flexbox, CSS Grid, hover effects, transitions, and full responsive design for Desktop, Tablet, and Mobile devices.
+The website was first creatued using HTML5 and has now been enhanced with advanced CSS, Flexbox, CSS Grid, hover effects, transitions, and full responsive design for Desktop, Tablet, and Mobile devices.
 
 ## Features
 - Semantic HTML5 structure
